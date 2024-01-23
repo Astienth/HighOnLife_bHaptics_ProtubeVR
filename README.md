@@ -13,17 +13,11 @@ Protube devices
 
 # <b>Manual installation</b></br>
 1) Download the zip file from [HighOnLife_bHaptics_Protube.zip](https://github.com/Astienth/HighOnLife_bHaptics_ProtubeVR/releases/download/1.0/HighOnLife_bHaptics_Protube.zip)</br>
-2) Extract its content into the game root folder, the folder containing the Oregon.exe file.</br>
+2) Extract its content into the game root folder, **the folder containing the Oregon.exe file**.</br>
 
-![Capture](https://github.com/Astienth/HighOnLife_bHaptics_ProtubeVR/assets/11942434/3d3c300b-ab20-4764-a524-d8e110e40327)
+3) Launch bhaptic player and turn your devices on. Turn your protube device on</br> 
 
-
-
-3) Launch bhaptic player and turn your devices on. Turn your protube device on</br>
-
-4) Run **HighOnLife_Bhaptics.bat**.</br>  
-
-5) Launch the game as you usually do. </br>  
+4) Launch the game as you usually do. </br>  
 
 ## If you want to play this game in VR:
 
